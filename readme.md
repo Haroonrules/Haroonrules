@@ -26,4 +26,4 @@ A Web Developer
 
 ### Badges
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Haroonrules&theme=merko&date_format=M%20j%5B%2C%20Y%5D&background=1F274AE8&border=DDAE8B&stroke=EEEDED&ring=D6D6D6&fire=FF6161&currStreakNum=FFFFFF&sideNums=E8E8E8&currStreakLabel=E8E8E8&sideLabels=E8E8E8&dates=9672FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Haroonrules&theme=merko&date_format=M%20j%5B%2C%20Y%5D&background=11162A&border=DDAE8B&stroke=EEEDED&ring=D6D6D6&fire=FF6161&currStreakNum=FFFFFF&sideNums=E8E8E8&currStreakLabel=E8E8E8&sideLabels=E8E8E8&dates=9672FF)](https://git.io/streak-stats)
