@@ -1,6 +1,6 @@
 Hi 👋 My name is Haroon Hassan
 ==============================
-
+Ki
 Web Developer
 -------------
 
@@ -9,7 +9,7 @@ Web Developer
 * 🌍  I'm based in Afghanistan
 * ✉️  You can contact me at [haroonkhan0119@gmail.com](mailto:haroonkhan0119@gmail.com)
 * 🧠  I'm learning JavaScript and React
-* 🤝  I'm open to collaborating on Web 3 and blockchain
+* 🤝  I'm open to collaborating on Web development 
 * ⚡  I'm in love with Astronomy  
 
 ### Skills
