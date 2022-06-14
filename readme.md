@@ -15,8 +15,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroonrules&show_icons=true&locale=en&layout=compact" alt="haroonrules" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haroonrules&show_icons=true&locale=en" alt="haroonrules" /></p>
+
 
 ### Badges
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Haroonrules&theme=merko&date_format=M%20j%5B%2C%20Y%5D&background=11162A&border=DDAE8B&stroke=EEEDED&ring=D6D6D6&fire=FF6161&currStreakNum=FFFFFF&sideNums=E8E8E8&currStreakLabel=E8E8E8&sideLabels=E8E8E8&dates=9672FF)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haroonrules&show_icons=true&locale=en" alt="haroonrules" /></p>
