@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haroon Hassan</h1>
 <h3 align="center">A front end Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haroonrules&label=Profile%20views&color=0e75b6&style=flat" alt="haroonrules" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/codingharoon" target="blank"><img src="https://img.shields.io/twitter/follow/codingharoon?logo=twitter&style=for-the-badge" alt="codingharoon" /></a> </p>
 
