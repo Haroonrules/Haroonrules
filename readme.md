@@ -19,11 +19,10 @@ A Web Developer
 ### Socials
 
 <p align="left">
-<a href="https://discord.com/users/Haroon#2251" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/haroonrules" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/codingHaroon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/Haroon#2251" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /></a>
+<a href="https://www.github.com/haroonrules" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a>
+<a href="https://www.twitter.com/codingHaroon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a>
 </p>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/codingHaroon?color=%23ffffff&label=twitter&style=social">
 
 ### Badges
 
