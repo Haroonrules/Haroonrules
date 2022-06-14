@@ -1,7 +1,6 @@
 Hi 👋 My name is Haroon Hassan
 ==============================
-Ki
-Web Developer
+A Web Developer
 -------------
 
 20 | Web Developer | CSS tips and Tricks | Web 3 | SWE Student | Solidity | React | Blockchain
