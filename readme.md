@@ -1,4 +1,4 @@
-#About Me 💫:
+# About Me 💫:
 * I’m based in Afghanistan 🇦🇫 
 * I’m currently learning React 🌱
 * I’m looking for help with web development and designing 👨‍💻
