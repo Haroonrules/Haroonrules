@@ -7,7 +7,7 @@
 
 ## 🌐Socials
 
-How to reach me**haroonkhan0119@gmail.com**
+Reach me by Email: **haroonkhan0119@gmail.com**
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Haroon#2251) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codingHaroon) 
 
