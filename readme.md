@@ -1,6 +1,6 @@
 # About Me 💫:
 * I’m based in Afghanistan 🇦🇫 
-* I’m currently learning React 🌱
+* I’m currently learning Typescript 🌱
 * I’m looking for help with web development and designing 👨‍💻
 * Fun fact I love Astronomy beside programming ⚡️
 
